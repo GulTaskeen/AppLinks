@@ -62,7 +62,7 @@ Android AppLinks with Flutter and Firebase
     }
 
 
-4. command to add uni_links package to pubspec.yaml file.
+4. command to add uni_links package to pubspec.yaml file. (use this inorder to handle the links)
 >
 
     flutter pub add uni_links
